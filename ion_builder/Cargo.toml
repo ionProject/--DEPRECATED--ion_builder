@@ -1,0 +1,10 @@
+[package]
+name        = "ion_builder"
+version     = "0.1.0"
+authors     = ["Kyle Finlay <kyle.finlay01@gmail.com>"]
+description = "A simple tool for creating new ion projects"
+license     = "Apache-2"
+
+[[bin]]
+name = "ion_builder"
+path = "src/main.rs"
